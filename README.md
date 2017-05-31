@@ -6,6 +6,8 @@ Minimal build of jQuery UI required for PyritePHP.
 
 Upstream version: 1.12.1, built on 2017-05-31
 
+Tailored for PyritePHP version: 1.2.4
+
 ## Build Details
 
 * Components: Toggle All
@@ -20,7 +22,7 @@ We primarily use this through Browserify, so requiring is all that's needed:
 'use strict';
 
 var $ = global.jQuery = require('jquery');
-var jQueryUI = require('jquery-ui-pyritephp');
+require('jquery-ui-pyritephp');
 
 ...
 ```
