@@ -1,0 +1,23 @@
+{
+  "name": "jquery-ui-pyritephp",
+  "version": "1.12.1",
+  "description": "Minimal build of jQuery UI required for PyritePHP",
+  "main": "jquery-ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vphantom/jquery-ui-pyritephp.git"
+  },
+  "keywords": [
+    "jquery-ui",
+    "pyritephp"
+  ],
+  "author": "Stéphane Lavergne <lis@imars.com> (https://github.com/vphantom)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vphantom/jquery-ui-pyritephp/issues"
+  },
+  "homepage": "https://github.com/vphantom/jquery-ui-pyritephp#readme"
+}
